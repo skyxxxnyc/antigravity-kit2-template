@@ -1,0 +1,1 @@
+{"name": "antigravity-kit2-template","version": "1.0.0","description": "A template for Antigravity Kit 2.","main": "index.js","scripts": {"setup": "npx @vudovn/ag-kit init"},"author": "skyxxxnyc","license": "MIT"}
